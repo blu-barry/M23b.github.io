@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/blu-barry.github.io/static/css/main.bd7bbee4.chunk.css",
-    "main.js": "/blu-barry.github.io/static/js/main.9d17077b.chunk.js",
-    "main.js.map": "/blu-barry.github.io/static/js/main.9d17077b.chunk.js.map",
-    "runtime-main.js": "/blu-barry.github.io/static/js/runtime-main.1fa7a244.js",
-    "runtime-main.js.map": "/blu-barry.github.io/static/js/runtime-main.1fa7a244.js.map",
-    "static/js/2.6f7a7c7a.chunk.js": "/blu-barry.github.io/static/js/2.6f7a7c7a.chunk.js",
-    "static/js/2.6f7a7c7a.chunk.js.map": "/blu-barry.github.io/static/js/2.6f7a7c7a.chunk.js.map",
-    "static/js/3.e7177fb8.chunk.js": "/blu-barry.github.io/static/js/3.e7177fb8.chunk.js",
-    "static/js/3.e7177fb8.chunk.js.map": "/blu-barry.github.io/static/js/3.e7177fb8.chunk.js.map",
-    "index.html": "/blu-barry.github.io/index.html",
-    "static/css/main.bd7bbee4.chunk.css.map": "/blu-barry.github.io/static/css/main.bd7bbee4.chunk.css.map",
-    "static/js/2.6f7a7c7a.chunk.js.LICENSE.txt": "/blu-barry.github.io/static/js/2.6f7a7c7a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/blu-barry.github.io/static/media/logo.6ce24c58.svg"
+    "main.css": "/blu-barry.github.io/blu-barry.github.io/static/css/main.bd7bbee4.chunk.css",
+    "main.js": "/blu-barry.github.io/blu-barry.github.io/static/js/main.9d17077b.chunk.js",
+    "main.js.map": "/blu-barry.github.io/blu-barry.github.io/static/js/main.9d17077b.chunk.js.map",
+    "runtime-main.js": "/blu-barry.github.io/blu-barry.github.io/static/js/runtime-main.af866aa1.js",
+    "runtime-main.js.map": "/blu-barry.github.io/blu-barry.github.io/static/js/runtime-main.af866aa1.js.map",
+    "static/js/2.6f7a7c7a.chunk.js": "/blu-barry.github.io/blu-barry.github.io/static/js/2.6f7a7c7a.chunk.js",
+    "static/js/2.6f7a7c7a.chunk.js.map": "/blu-barry.github.io/blu-barry.github.io/static/js/2.6f7a7c7a.chunk.js.map",
+    "static/js/3.e7177fb8.chunk.js": "/blu-barry.github.io/blu-barry.github.io/static/js/3.e7177fb8.chunk.js",
+    "static/js/3.e7177fb8.chunk.js.map": "/blu-barry.github.io/blu-barry.github.io/static/js/3.e7177fb8.chunk.js.map",
+    "index.html": "/blu-barry.github.io/blu-barry.github.io/index.html",
+    "static/css/main.bd7bbee4.chunk.css.map": "/blu-barry.github.io/blu-barry.github.io/static/css/main.bd7bbee4.chunk.css.map",
+    "static/js/2.6f7a7c7a.chunk.js.LICENSE.txt": "/blu-barry.github.io/blu-barry.github.io/static/js/2.6f7a7c7a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/blu-barry.github.io/blu-barry.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1fa7a244.js",
+    "static/js/runtime-main.af866aa1.js",
     "static/js/2.6f7a7c7a.chunk.js",
     "static/css/main.bd7bbee4.chunk.css",
     "static/js/main.9d17077b.chunk.js"
