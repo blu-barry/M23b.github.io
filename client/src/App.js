@@ -18,7 +18,7 @@ import SelectWebcams from './SelectWebcams';
 
 function App() {
     return (
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router basename="/">
           <div className="App">
             <Navbar />
               <div className="content">
