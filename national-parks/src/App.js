@@ -18,27 +18,27 @@ import SelectWebcams from './SelectWebcams';
 
 function App() {
     return (
-      <Router basename="/">
+      <Router>
           <div className="App">
             <Navbar />
               <div className="content">
                 <Switch>
-                  <Route exact path="/">
+                  <Route exact path="/national-parks">
                     <Home />
                   </Route>
-                  <Route exact path="/ParksList">
+                  <Route exact path="/national-parks/ParksList">
                     <ParksList />
                   </Route>
-                  <Route exact path="/ActivitiesList">
+                  <Route exact path="/national-parks/ActivitiesList">
                     <ActivitiesList />
                   </Route>
-                  <Route path="/Activities/:id">
+                  <Route path="/national-parks/Activities/:id">
                     <Activity />
                   </Route>
-                  <Route path="/Webcams">
+                  <Route path="/national-parks/Webcams">
                     <SelectWebcams />
                   </Route>
-                  <Route path="/Parks/:parkCode">
+                  <Route path="/national-parks/Parks/:parkCode">
                     <ParkDetails />
                   </Route>  
                 </Switch>
